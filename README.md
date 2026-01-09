@@ -16,7 +16,7 @@ python setup_spectre_scheduling.py install
 
 ## Experiments on expressivity
 
-To reproduce the experiments on Cayley graphs, e.g., cayley-24, see the python notebook ```Experiments - Cayley.ipynb```.
+To reproduce the experiments on Cayley graphs, see the python notebook ```Experiments - Cayley.ipynb```.
 
 For BREC datasets, run the python notebook ```Experiments - BREC.ipynb```. 
 
